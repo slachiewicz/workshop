@@ -8,4 +8,4 @@ pyarrow==6.0.1
 pysocks==1.7.1
 sagemaker==2.86.2
 scipy==1.8.0
-tensorflow==2.8.0
+tensorflow==2.11.1
